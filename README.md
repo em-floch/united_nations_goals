@@ -9,14 +9,18 @@ to set action plan to reach these goals.
 ### Exploration 
 
 The notebook data_exploration.ipynb contains the first data exploration steps including:
+
 [x] Exploring the distributon of missing values across years, countries and indicators
+
 [] Exploring the distribution of the data, summary statistics and outliers for the indicators we want to predict
+
 [] Exploring the relationship between our key indictors and the others 
 
 ### Analysis
 
 In order to predict some key indicators, I decided to 
 [] Build a clustering method to identify sets of countries that are facing similar economic challenges 
+
 []
 
 ### Data 
