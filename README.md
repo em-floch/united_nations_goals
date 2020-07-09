@@ -19,6 +19,7 @@ The notebook data_exploration.ipynb contains the first data exploration steps in
 ### Analysis
 
 In order to predict some key indicators, I decided to 
+
 [] Build a clustering method to identify sets of countries that are facing similar economic challenges 
 
 []
